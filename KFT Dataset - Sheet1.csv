@@ -1,0 +1,137 @@
+Menu,Category,Base Type,Flavor Tags,Customizable Sweetness,Available Sweetness Level,Allergens,Contains Caffeine,Contains Gluten,Oat Milk Substitution ,Vegan-friendly,Contains dairy
+Kung Fu Black Tea,Classic,Black ,"Bold, Citrusy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Winter Melon Tea,Classic,Water,"Sweet, Smooth, Normal",Yes,"30, 50, 70, 100",No,No,No,No,Yes,No
+Honey Green Tea,Classic,Green ,"Sweet, Normal",Yes,"30, 50, 70, 100",No,Yes,No,No,No,No
+Kung Fu Green Tea,Classic,Green ,"Refreshing, Sweet, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Winter Melon Green Tea,Classic,Green ,"Smooth, Normal",Yes,"30, 50, 70, 100",No,Yes,No,No,Yes,No
+Kung Fu Oolong Tea,Classic,Oolong ,"Sweet, Fresh, Toasty, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Honey Oolong Tea,Classic,Oolong,"Rich, Smooth, Normal, Sweet",Yes,"30, 50, 70, 100",No,Yes,No,No,No,No
+Kung Fu Honey Tea,Classic,Water,"Rich, Sweet, Normal",Yes,"30, 50, 70, 100",No,No,No,No,No,No
+Honey Black Tea,Classic,Black ,"Rich, Sweet, Bold, Normal",Yes,"30, 50, 70, 100",No,Yes,No,No,No,No
+Longan Jujube Tea,Classic,Water,"Sweet, Rich",Yes,"70, 100",No,No,No,No,Yes,No
+Brown Sugar Ginger,Classic,Water,"Spicy, Sweet",No,100,No,No,No,No,Yes,No
+Kung Fu Thai Tea,Classic,Thai,"Normal, Spicy",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Kung Fu Honey Thai Tea,Classic,Thai,"Smooth, Spicy, Sweet",Yes,"30, 50, 70, 100",No,Yes,No,No,No,No
+Apple Black Tea,Punch,Black,"Fruity, Sweet, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Apple Green Tea,Punch,Green,"Fruity, Sweet, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Apple Oolong Tea,Punch,Oolong,"Fruity, Sweet, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Kiwi Punch,Punch,"Green, Water","Sweet, Fruity, Tangy, Refreshing",Yes,"30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Tropcal Punch,Punch,Water,"Sweet, Fruity, Tangy, Refreshing",Yes,"30, 50, 70, 100",No,No,No,No,No,No
+Honey Lemonade,Punch,Water,"Sweet, Fruity",Yes,"30, 50, 70, 100",No,No,No,No,No,No
+Lemon Black Tea,Punch,Black,"Bold, Fruity, Refreshing",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Lemon Green Tea,Punch,Green,"Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Peach Green Tea,Punch,Green,"Fruity, Refreshing",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Lychee Punch,Punch,Green,"Sweet, Fruity",Yes,"30, 50, 70, 100",No,Yes,No,No,Yes,No
+Peach Oolong Tea,Punch,Oolong,"Refreshing, Sweet, Fruity",Yes,"50, 70, 100",No,Yes,No,No,No,No
+White Grape Punch,Punch,Green,"Sweet, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Guava Punch,Punch,"Green, Water","Tangy, Refreshing, Sweet, Citrus, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Guava Black Tea,Punch,"Black, Water","Tangy, Sweet, Citrus, Bold, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Mango Green Tea,Punch,Green,"Sweet, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Orange Green Tea,Punch,Green,"Refreshing, Sweeet, Tart, Fruity ",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Grapefruit Green Tea,Punch,Green,"Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Sunshine Pinapple Tea,Punch,Green,"Refreshing, Fruity",Yes,"70, 100",No,Yes,No,No,Yes,No
+Passion Fruit Green Tea,Punch,Green,"Sweet, Fruity, Tart",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,Yes,No
+Strawberry Lemonade,Punch,Water,"Sweet, Fruity",Yes,"70, 100",No,No,No,No,Yes,No
+Lychee Black Tea,Punch,Black,"Sweet, Bold, Refreshing, Fruity",Yes,"30, 50, 70, 100",No,Yes,No,No,Yes,No
+Strawberry Lemonade Green Tea,Punch,Green,"Sweet, Tart, Fruity",Yes,"70, 100",No,Yes,No,No,Yes,No
+Rosehip Lemonade,Punch,Water,"Refreshing, Tart, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,Yes,No
+Winter Melon Lemonade,Punch,Water,"Smooth, Refreshing",Yes,"70, 100",No,No,No,No,Yes,No
+Rosehip Pineapple,Punch,Water,"Refreshing, Sweet, Fruity",Yes,"70, 100",No,No,No,No,Yes,No
+Sunshine Grape-ade,Punch,Water,"Sweet, Tart, Fruity",Yes,"70, 100",No,No,No,No,No,No
+Honey Thai Milk Tea,Milk Tea,Thai,"Creamy, Bold",Yes,"30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Kung Fu Milk Tea,Milk Tea,Black,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Malted Black Milk Tea,Milk Tea,Black,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,Yes,No,No,No
+Malted Milk Green Tea,Milk Tea,Green,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,Yes,No,No,No
+Malted Oolong Milk Tea,Milk Tea,Oolong,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,Yes,No,No,No
+Malted Thai Milk Tea,Milk Tea,Thai,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,Yes,No,No,No
+Espresso Thai Milk Tea,Milk Tea,Thai,"Coffee, Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Kung Fu Milk Green Tea,Milk Tea,Green,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Roasted Chestnut Milk Tea,Milk Tea,Oolong,"Creamy, Normal, Savory, Nutty",Yes,"0, 30, 50, 70, 100, 120",Tree Nut,Yes,No,No,No,No
+Strawberry Milk Tea,Milk Tea,Black,"Creamy, Fruity, Sweet",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Mango Milk Tea,Milk Tea,Oolong,"Creamy, Sweet, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Peach Milk Tea,Milk Tea,Oolong,"Creamy, Sweet, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Toffee Thai Tea ,Milk Tea,Thai,"Creamy, Buttery, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Kung Fu Oolong Milk Tea,Milk Tea,Oolong,"Toasty, Creamy, Sweet, Smooth",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Taro Milk Tea,Milk Tea,Black,"Sweet, Creamy",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Taro Milk Green Tea,Milk Tea,Green,"Sweet, Creamy",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+"Creamy, Sweet, Salty, Chocolate",Milk Tea,Black,"Richy, Creamy, Nutty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Coffee Milk Tea,Milk Tea,Black,"Coffee, Creamy, Sweet, Bold",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Almond Milk Tea,Milk Tea,Black,"Sweet, Nutty, Creamy",Yes,"0, 30, 50, 70, 100, 120",Tree Nut,Yes,No,No,No,Yes
+Winter Melon Milk Green Tea,Milk Tea,Green,"Refreshing, Sweet, Smooth, Creamy",Yes,"70, 100",No,Yes,No,No,No,No
+Honey Milk Tea,Milk Tea,Black,"Sweet, Smooth, Creamy, Normal",Yes,"30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Honey Milk Green Tea,Milk Tea,Green,"Sweet, Smooth, Creamy, Normal",Yes,"30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Honey Oolong Milk Tea,Milk Tea,Oolong,"Smooth, Toasty, Creamy, Normal",Yes,"30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Rosehip Milk Tea,Milk Tea,Black,"Smooth, Fruity, Creamy",No,100,No,Yes,No,No,No,No
+Thai Milk Tea,Milk Tea,Thai,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Winter Melon Coconut Green Tea,Milk Tea,Green,"Creamy, Nutty",Yes,"70, 100",No,Yes,No,No,No,No
+Caramel Milk Tea,Milk Tea,Black,"Rich, Creamy, Caramel",Yes,"70, 100",No,Yes,No,No,No,No
+Apple Pie Slush,Slush,Water,"Fruity, Creamy",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,No,No,No
+Kiwi Yogurt Slush,Slush,Yogurt,"Creamy, Tangy, Sweet, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Tropical Slush,Slush,Water,"Tangy, Sweet, Fruity",Yes,"0, 30, 50, 70, 100",No,No,No,No,No,No
+Taro Slush,Slush,Water,"Sweet, Nutty",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Roasted Chestnut Slush,Slush,Milk,"Nutty, Savory",Yes,"0, 30, 50, 70, 100, 120",Tree Nut,No,No,No,No,No
+Mangonada Slush,Slush,Water,"Sweet, Tart, Spicy, Fruity",Yes,"70, 100",No,No,No,No,Yes,No
+Fruity Flurry,Slush,Water,"Sweet, Fruity, Refreshing",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,No
+Red Bean Slush,Slush,Water,"Savory, Sweet, Nutty",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,Yes,No
+Passion Fruit Swirl,Slush,Water,"Bold, Sweet, Tart, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Blueberry Creamsicle,Slush,Water,"Fruity, Sweet, Icy",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,No
+Blueberry Lemon Slush,Slush,Water,"Fruity, Sweet",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,No
+Passion Grape Slush,Slush,Water,"Fruity, Sweet",Yes,"70, 100",No,No,No,No,No,No
+Matcha Red Bean Slush,Slush,Milk,"Sweet, Savory",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Honey Guava Slush,Slush,Water,"Rich, Sweet, Fruity",Yes,"70, 100",No,No,No,No,No,No
+Mango Slush,Slush,Water,"Sweet, Refreshing, Fruity",Yes,"70, 100",No,No,No,No,Yes,No
+White Grape Slush,Slush,Water,"Sweet, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,Yes,No
+Pineapple Slush,Slush,Water,"Sweet, Fruity",Yes,"30, 50, 70, 100",No,No,No,No,Yes,No
+Cocoa Lava Slush,Slush,Milk,"Oreo, Chocolate, Creamy, Rich, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,No,No,Yes
+Passion Fruit Slush,Slush,Water,"Sweet, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,Yes,No
+Strawberry Milk Slush,Slush,Milk,"Sweet, Refreshing, Fruity",Yes,"70, 100",No,No,No,Yes,No,Yes
+S'mores Slush,Slush,Water,"Chocolate, Creamy, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,No,No,No
+Coffee Slush,Slush,Coffee,"Coffee, Bold, Creamy",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Mocha Slush,Slush,Coffee,"Rich, Chocolate, Coffee",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Caramel Macchiato Slush,Slush,Coffee,"Sweet, Coffee, Caramel",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,No
+Pina Colada Slush,Slush,Water,"Sweet, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Mango Snow,Slush,Water,"Sweet, Creamy, Refreshing, Fruity",Yes,"70, 100",No,No,No,No,No,Yes
+Caribbean Breeze ,Slush,Water,"Fruity, Bold",No,100,No,No,No,No,No,No
+Oreo Slush,Slush,Milk,"Sweet, Oreo, Chocolate",Yes,"70, 100",No,No,Yes,No,No,Yes
+Mango Creamsicle,Slush,Water,"Citrusy, Icy, Creamy, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Lemon Almond Pie,Slush,Water,"Fruity, Nutty, Smooth, Savory",Yes,"30, 50, 70, 100, 120",Tree Nut,No,No,No,No,No
+Cocoa Cream Wow,Milk Strike,Milk,"Creamy, Sweet, Chocolate",No,100,No,No,No,Yes,No,Yes
+Matcha Milk,Milk Strike,Milk,"Creamy, Normal",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Oreo Wow,Milk Strike,Milk,"Creamy, Sweet, Oreo",No,100,No,No,Yes,Yes,No,Yes
+Chai Milk,Milk Strike,Milk,"Creamy, Normal, Sweet",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,Yes,No,Yes
+Sesame Matcha Milk,Milk Strike,Milk,"Creamy, Normal, Bittersweet, Savory, Smooth",No,100,No,Yes,No,No,No,Yes
+Ginger Milk,Milk Strike,Milk,"Creamy, Sweet, Spicy",Yes,"70, 100",No,No,No,Yes,No,Yes
+Red Bean Wow,Milk Strike,Milk,"Creamy, Sweet, Spicy",No,100,No,No,No,Yes,No,Yes
+Herbal Jelly Wow,Milk Strike,Milk,"Creamy, Sweet, Earthy, Normal",No,100,No,No,No,Yes,No,Yes
+Iced Cocoa,Milk Strike,Milk,"Creamy, Sweet, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,No,No,Yes
+Hot Cocoa,Milk Strike,Milk,"Creamy, Sweet, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,No,No,Yes
+Thai Tea Latte,Milk Strike,"Milk, Thai","Creamy, Sweet, Spicy",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,Yes,No,Yes
+Honey Thai Tea Latte,Milk Strike,"Milk, Thai","Creamy, Sweet, Spicy",Yes,"30, 50, 70",No,Yes,No,Yes,No,Yes
+Winter Melon Milk ,Milk Strike,Milk,"Creamy, Smooth",Yes,"70, 100",No,No,No,No,No,No
+Cereal Milk Cronch,Milk Strike,Water,"Creamy, Savory",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,Yes,No,No
+Strawberry Milk Cronch,Milk Strike,Oat Milk,"Creamy, Savory, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,Yes,No,No
+Doucle Chocolate Milk Cronch,Milk Strike,Oat Milk,"Creamy, Sweet, Oreo, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,No,Yes,Yes,No,No
+Yogurt Green Tea,Yogurt,"Yogurt, Green","Normal, Sweet, Tart",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Yogurt Peach Ade,Yogurt,Yogurt,"Sweet, Tart, Refreshing, Fruity",Yes,"70, 100",No,No,No,No,No,Yes
+Yogurt Orange,Yogurt,Yogurt,"Sweet, Tangy, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Yogurt Grapefruit,Yogurt,Yogurt,"Sweet, Tangy, Refreshing, Fruity",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Yogurt Strawberry Lemonade,Yogurt,Yogurt,"Sweet, Tangy, Refreshing, Fruity, Smooth",Yes,"70, 100",No,No,No,No,No,Yes
+Yogurt Lemonade,Yogurt,Yogurt,"Sweet, Tangy, Refreshing, Fruity, Smooth",Yes,"0, 30, 50, 70, 100, 120",No,No,No,No,No,Yes
+Macchiato,Espresso,Coffee,"Sweet, Bold, Coffee, Caramel",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Coffee,Espresso,Coffee,"Sweet, Bold, Coffee",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Mocha,Espresso,Coffee,"Sweet, Bold, Coffee, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,Yes,No,Yes
+Latte,Espresso,Coffee,"Sweet, Creamy, Coffee",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,Yes,No,Yes
+S'mores Coffee Slush,Espresso,Coffee,"Rich, Sweet, Coffee, Chocolate",Yes,"0, 30, 50, 70, 100, 120",No,Yes,Yes,No,No,Yes
+Cappuccino,Espresso,Coffee,"Bold, Creamy, Coffee",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,Yes,No,Yes
+Coffee Wow Milk Cap,Espresso,"Coffee, Milk","Sweet, Creamy, Coffee",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Thai Tea Milk Cap,Milk Cap,Thai,"Creamy, Normal, Salty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Winter Melon Tea Cap,Milk Cap,Water,"Creamy, Normal, Sweet, Smooth, Salty",Yes,"30, 50, 70, 100",No,No,No,No,No,Yes
+Honey Black Tea Cap,Milk Cap,Black,"Creamy, Normal, Sweet, Salty",Yes,"30, 50, 70, 100",No,Yes,No,No,No,Yes
+Honey Green Tea Cap,Milk Cap,Green,"Creamy, Normal, Sweet, Salty",Yes,"30, 50, 70, 100",No,Yes,No,No,No,Yes
+Honey Oolong Tea Cap,Milk Cap,Oolong,"Creamy, Normal, Sweet, Salty",Yes,"30, 50, 70, 100",No,Yes,No,No,No,Yes
+Sunshine Pineapple Tea Cap,Milk Cap,Water,"Creamy, Refreshing, Normal, Salty, Fruity",Yes,"30, 50, 70, 100",No,No,No,No,No,Yes
+Black Tea Wow Milk Cap,Milk Cap,Black,"Creamy, Normal, Sweet, Salty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Green Tea Wow Milk Cap,Milk Cap,Green,"Creamy, Normal, Sweet, Salty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Oolong Tea Wow Milk Cap,Milk Cap,Oolong,"Creamy, Normal, Sweet, Salty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Matcha Milk Cap,Milk Cap,"Water, Milk","Creamy, Normal, Salty",Yes,"0, 30, 50, 70, 100, 120",No,Yes,No,No,No,Yes
+Cocoa Cream Wow Milk Cap,Milk Cap,Milk,"Creamy, Sweet, Salty, Chocolate",No,100,No,No,No,Yes,No,Yes
